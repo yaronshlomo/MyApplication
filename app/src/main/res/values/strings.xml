@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application1</string>
+    <string name="shared_preference_file">shared_preference_file</string>
+</resources>
